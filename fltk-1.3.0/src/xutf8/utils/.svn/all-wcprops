@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils
+END
+conv_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/conv_gen.c
+END
+tbl_gen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/tbl_gen.sh
+END
+case.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/case.sh
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/INSTALL
+END
+euc_tw.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/euc_tw.c
+END
+non_spacing.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/non_spacing.sh
+END
+create_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/create_table.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/README
+END
+convert_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utils/convert_map.c
+END

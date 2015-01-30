@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8
+END
+mk_wcwidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/mk_wcwidth.c
+END
+ucs2fontmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/ucs2fontmap.c
+END
+test2.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/test2.c
+END
+is_right2left.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/is_right2left.c
+END
+utf8Input.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/53/trunk/fltk-1.3.0/src/xutf8/utf8Input.c
+END
+utf8Utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utf8Utils.c
+END
+case.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/case.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/README
+END
+Ximint.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/Ximint.h
+END
+Xlibint.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/Xlibint.h
+END
+keysym2Ucs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/keysym2Ucs.c
+END
+is_spacing.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/is_spacing.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/test.c
+END
+utf8Wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/utf8Wrap.c
+END
+imKStoUCS.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/imKStoUCS.c
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/COPYING
+END
+stamp-h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/stamp-h
+END
+fl_wcwidth.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/fl_wcwidth.c
+END
+ucs2fontmap.c.mini
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/ucs2fontmap.c.mini
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/stamp-h.in
+END

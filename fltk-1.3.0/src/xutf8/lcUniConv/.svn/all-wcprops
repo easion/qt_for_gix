@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv
+END
+iso8859_11.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_11.h
+END
+iso8859_13.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_13.h
+END
+koi8_r.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/koi8_r.h
+END
+iso8859_14.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_14.h
+END
+iso8859_15.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_15.h
+END
+gbk_tab_to_h.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/gbk_tab_to_h.c
+END
+iso8859_16.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_16.h
+END
+koi8_u.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/koi8_u.h
+END
+8bit_tab_to_h.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/8bit_tab_to_h.c
+END
+cjk_tab_to_h.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/cjk_tab_to_h.c
+END
+cp1133.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/cp1133.h
+END
+tcvn.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/tcvn.h
+END
+cp1251.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/cp1251.h
+END
+cp1255.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/cp1255.h
+END
+cp1256.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/cp1256.h
+END
+COPYRIGHT
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/COPYRIGHT
+END
+jisx0212.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/jisx0212.h
+END
+ucs2be.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/ucs2be.h
+END
+cp936ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/cp936ext.h
+END
+big5.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/big5.h
+END
+viscii.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/viscii.h
+END
+tis620.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/tis620.h
+END
+ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/ascii.h
+END
+tatar_cyr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/tatar_cyr.h
+END
+ksc5601.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/ksc5601.h
+END
+georgian_ps.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/georgian_ps.h
+END
+big5_emacs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/big5_emacs.h
+END
+mulelao.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/mulelao.h
+END
+gb2312.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/gb2312.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/README
+END
+iso8859_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_1.h
+END
+iso8859_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_2.h
+END
+iso8859_3.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_3.h
+END
+iso8859_4.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_4.h
+END
+iso8859_5.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_5.h
+END
+koi8_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/koi8_c.h
+END
+iso8859_6.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_6.h
+END
+iso8859_7.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_7.h
+END
+georgian_academy.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/georgian_academy.h
+END
+armscii_8.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/armscii_8.h
+END
+iso8859_8.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_8.h
+END
+iso8859_9.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_9.h
+END
+jisx0201.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/jisx0201.h
+END
+iso8859_9e.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_9e.h
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/utf8.h
+END
+jisx0208.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/jisx0208.h
+END
+iso8859_10.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/fltk-1.3.0/src/xutf8/lcUniConv/iso8859_10.h
+END
